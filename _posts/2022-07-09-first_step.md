@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "1. 리세마라"
+title : "1.리세마라"
 
 ---
 
