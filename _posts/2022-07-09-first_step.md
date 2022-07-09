@@ -44,7 +44,7 @@ title : "1. 리세마라"
 
 편의상 현재 실행하고 있는 기기가 아닌 pc 등에서 아래 주소로 들어가 카카오톡 계정에 로그인한다.
 
-https://www.kakaocorp.com/page/
+[https://www.kakaocorp.com/page/](https://www.kakaocorp.com/page/)
 
 그 후 <em>계정 이용</em> 메뉴에 들어가면 연결되어 있는 for Kakao 제후 서비스들을 확인할 수 있는데 우마무스메의 정보를 삭제한다.
 
