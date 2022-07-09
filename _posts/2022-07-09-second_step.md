@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "2. 말 육성 준비하기"
+title : "2.말 육성 준비하기"
 
 ---
 
