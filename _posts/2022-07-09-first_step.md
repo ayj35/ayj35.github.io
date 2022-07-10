@@ -46,7 +46,7 @@ title : "1.리세마라"
 
 [https://www.kakaocorp.com/page/](https://www.kakaocorp.com/page/)
 
-그 후 <em>계정 이용</em> 메뉴에 들어가면 연결되어 있는 for Kakao 제후 서비스들을 확인할 수 있는데 우마무스메의 정보를 삭제한다.
+그 후 <b>계정 이용</b> 메뉴에 들어가면 연결되어 있는 for Kakao 제후 서비스들을 확인할 수 있는데 우마무스메의 정보를 삭제한다.
 
 #### 5. 다시 접속 후 반복
 
